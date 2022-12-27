@@ -1,11 +1,7 @@
-* {
-  outline: 1px solid blue;
-}
-
 .cards {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 auto;
   width: 920px;
-
+  column-gap: 100px;
+  margin: 0 auto;
 }
